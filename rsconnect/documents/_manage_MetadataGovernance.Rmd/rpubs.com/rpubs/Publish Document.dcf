@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/758812/ec5fc2ff704a412dbe8eace91927e2ce
+bundleId: https://api.rpubs.com/api/v1/document/758812/ec5fc2ff704a412dbe8eace91927e2ce
+url: http://rpubs.com/KarthikeyanChokappa/758812
+when: 1619110344.86625
+lastSyncTime: 1619110344.86625
